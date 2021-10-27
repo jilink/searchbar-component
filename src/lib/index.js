@@ -25,4 +25,4 @@ const SearchBar = ({list, setList, filterField = item => item, ...props}) => {
   )
 }
 
-export default SearchBar
+export { SearchBar };

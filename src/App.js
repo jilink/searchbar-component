@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { useState } from "react";
-import SearchBar from "./SearchBar";
+import { SearchBar } from "./lib";
 
 function App() {
   const dataArray = [
